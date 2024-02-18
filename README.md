@@ -5,7 +5,7 @@
 
 ### 网页GitHub地址如下：（若加载较慢建议刷新后耐心等待一会~）
 
-[tab栏切换](https://jiang-lijun.github.io/js_tab/)
+https://zhiyuanda.github.io/js_tab/
 
 ### 网页代码如下：
 
